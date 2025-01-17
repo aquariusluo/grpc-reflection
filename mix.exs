@@ -45,7 +45,7 @@ defmodule GrpcReflection.MixProject do
       {:ex_doc, ">= 0.0.0", only: :dev, runtime: false},
       {:google_protos, "~> 0.4.0"},
       {:grpc, "~> 0.7"},
-      {:protobuf, "~> 0.11"}
+      {:protobuf, "~> 0.12.0"}
     ]
   end
 
